@@ -1,5 +1,0 @@
-pillow>=9.0
-
-[dev]
-build>=1.0
-twine>=4.0
